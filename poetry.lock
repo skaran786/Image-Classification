@@ -430,6 +430,16 @@ files = [
 ]
 
 [[package]]
+name = "logging"
+version = "0.4.9.6"
+description = "A logging module for Python"
+optional = false
+python-versions = "*"
+files = [
+    {file = "logging-0.4.9.6.tar.gz", hash = "sha256:26f6b50773f085042d301085bd1bf5d9f3735704db9f37c1ce6d8b85c38f2417"},
+]
+
+[[package]]
 name = "markdown"
 version = "3.6"
 description = "Python implementation of John Gruber's Markdown."
@@ -1449,4 +1459,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "cb4f5a65821f9eeef56547d06d259392a59bb4f0d90702c238742f0f7ea97ec8"
+content-hash = "8fe5f00f9feeb5ca99af6ef9ddeef67b0aeb5487f98238218973ab837cb8d64c"

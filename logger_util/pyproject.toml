@@ -1,18 +1,12 @@
 [tool.poetry]
-name = "image-classification"
+name = "logger-util"
 version = "0.1.0"
-description = "\"Image classification on MINST dataset\""
+description = ""
 authors = ["Karan Verma <vkaran969@gmail.com>"]
-license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-torch = "^2.2.2"
-opencv-python = "^4.9.0.80"
-tensorflow = "^2.16.1"
-pytest = "^8.1.1"
-logging = "^0.4.9.6"
 
 
 [build-system]
