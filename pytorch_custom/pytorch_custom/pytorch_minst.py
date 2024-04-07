@@ -1,6 +1,6 @@
 import torch
 from torch import nn
-from pytorch_custom.pytorch_base import BaseModel
+from pytorch_custom.pytorch_custom.pytorch_base import BaseModel
 
 class MNISTClassifier(BaseModel):
 
