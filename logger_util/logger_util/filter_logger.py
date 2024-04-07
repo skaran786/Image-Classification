@@ -1,3 +1,4 @@
+import logging
 from logger_util.rotating_logger import RotatingFileLogger
 
 class FilterLogger(RotatingFileLogger):
